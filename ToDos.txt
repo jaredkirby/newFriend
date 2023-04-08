@@ -1,0 +1,9 @@
+
+# ToDos: 
+- Add new friend chain to get to know the user. Goal = understanding the user's preferences, interests, and background.
+- Identify a system to begin a conversation with meaning and substance
+- Add games. Goal = mental stimulation and fun. 
+    - Games can focus on memory, attention, problem-solving, and other critical cognitive skills
+    - Games can be based on the user's interests and preferences
+    - Games adapt to the users' cognitive abilities and performance
+- Reminiscence Therapy. Goal = generate customized prompts and questions to stimulate conversation and evoke memories.
